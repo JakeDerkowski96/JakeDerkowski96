@@ -32,6 +32,7 @@ Python/PowerShell automation that replaces manual pipelines.
 
 | Project | What it is |
 |---------|-----------|
+| **[ai-job-search-pipeline](https://github.com/JakeDerkowski96/ai-job-search-pipeline)** | Agent-driven job discovery + human-in-the-loop résumé/cover-letter tailoring — scheduled cloud routines, MCP connectors, and a config-driven filter. |
 | **[Scripting](https://github.com/JakeDerkowski96/Scripting)** | My automation toolkit — Sentinel, Defender, Purview, Graph, and Azure automation in PowerShell & Python, plus provisioning and utilities. |
 | **[research-papers](https://github.com/JakeDerkowski96/research-papers)** | Graduate research on cloud security and zero-trust, with a Bash toolkit for generating IEEE-format papers. |
 | **[undergraduate-projects](https://github.com/JakeDerkowski96/undergraduate-projects)** | Curated archive of undergraduate CS work — AI, digital forensics, software engineering, and CS fundamentals. |
