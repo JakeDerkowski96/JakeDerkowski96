@@ -1,39 +1,45 @@
 # Hi, I'm Jake Derkowski 👋
 
-### Cybersecurity Cloud Engineer
+### Security Automation & Detection-as-Code Engineer
 
-I build automation for securing cloud environments — with a focus on **Microsoft Azure** and
-the **Microsoft security stack** (Sentinel, Defender, Purview, and Entra). I hold an
-**M.S. in Cybersecurity** and enjoy turning repetitive security-operations work into clean,
-reusable tooling.
+I build the platforms that run security at scale — not just the detections that run on
+them. I operate a multi-tenant **Microsoft security stack** (Sentinel, Defender XDR,
+Purview) and have shifted security operations from hand-built click-ops toward
+**detection-as-code** and **infrastructure-as-code**: config-driven Sentinel deployment,
+CI/CD with OIDC-federated auth, IaC-defined analytics rules and log tables, and
+Python/PowerShell automation that replaces manual pipelines.
 
 ---
 
-### 🔭 Focus Areas
+### 🔭 What I Do
 
-- **Cloud Security Engineering** — Azure resource management, ARM/IaC deployment, Entra ID
-- **Security Operations Automation** — Microsoft Sentinel workspaces, analytics rules, log ingestion
-- **Threat Detection & Response** — Defender XDR advanced hunting, incident retrieval via Microsoft Graph
-- **Data Governance & Compliance** — Purview sensitivity labels and eDiscovery tooling
+- **Detection-as-Code** — KQL detection engineering, MITRE ATT&CK coverage, analytics-rule
+  authoring/tuning, entity mapping, SOAR/automation rules, threat hunting
+- **Security Automation** — Python (Azure SDK, Microsoft Graph) & advanced PowerShell to
+  replace manual reporting and data pipelines
+- **Infrastructure-as-Code** — ARM/Bicep for analytics rules, DCR/DCE, custom log tables,
+  and repeatable, testable multi-tenant deployments
+- **CI/CD for Security** — GitHub Actions with OIDC workload-identity auth, Git-based
+  lifecycle management
 
 ### 🧰 Tech Stack
 
-**Languages:** PowerShell · Python · Bash · KQL · C# · C++
-**Cloud & Security:** Microsoft Azure · Microsoft Sentinel · Defender XDR · Microsoft Purview · Microsoft Graph · Entra ID
-**Tooling:** Git · Terraform · LaTeX · ARM Templates
+**Platforms:** Microsoft Sentinel · Defender XDR · Microsoft Purview · Entra ID · Azure Monitor / Log Analytics · Azure Lighthouse
+**Languages:** KQL · PowerShell · Python · Bash
+**IaC & CI/CD:** ARM · Bicep · GitHub Actions · OIDC · Git
 
 ### 📌 Featured Projects
 
 | Project | What it is |
 |---------|-----------|
-| **[Scripting](https://github.com/JakeDerkowski96/Scripting)** | My flagship automation toolkit — Azure, Sentinel, Defender, Purview, and Graph automation in PowerShell & Python, plus workstation-provisioning and general utilities. |
-| **[research-papers](https://github.com/JakeDerkowski96/research-papers)** | Graduate research on cloud security, zero-trust architecture, and emerging-tech risk — with a Bash toolkit for generating IEEE-format papers. |
-| **[undergraduate-projects](https://github.com/JakeDerkowski96/undergraduate-projects)** | A curated archive of undergraduate CS work spanning AI, digital forensics, software engineering, and CS fundamentals. |
+| **[Scripting](https://github.com/JakeDerkowski96/Scripting)** | My automation toolkit — Sentinel, Defender, Purview, Graph, and Azure automation in PowerShell & Python, plus provisioning and utilities. |
+| **[research-papers](https://github.com/JakeDerkowski96/research-papers)** | Graduate research on cloud security and zero-trust, with a Bash toolkit for generating IEEE-format papers. |
+| **[undergraduate-projects](https://github.com/JakeDerkowski96/undergraduate-projects)** | Curated archive of undergraduate CS work — AI, digital forensics, software engineering, and CS fundamentals. |
 
 ### 🎓 Background
 
-M.S. in Cybersecurity, **Sam Houston State University** — coursework and research spanning
-digital forensics, information security, and cloud computing.
+M.S. in Cybersecurity, **Sam Houston State University** — digital forensics, information
+security, and cloud computing.
 
 ### 📫 Connect
 
