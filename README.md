@@ -38,5 +38,5 @@ digital forensics, information security, and cloud computing.
 ### 📫 Connect
 
 - 📧 [jakederkowski12@gmail.com](mailto:jakederkowski12@gmail.com)
-- 💼 LinkedIn: _<!-- add your LinkedIn URL here -->_
+- 💼 [linkedin.com/in/jake-derkowski](https://www.linkedin.com/in/jake-derkowski/)
 - 💻 [github.com/JakeDerkowski96](https://github.com/JakeDerkowski96)
