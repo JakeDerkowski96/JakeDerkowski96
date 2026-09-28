@@ -37,10 +37,6 @@ Python/PowerShell automation that replaces manual pipelines.
 | **[research-papers](https://github.com/JakeDerkowski96/research-papers)** | Graduate research on cloud security and zero-trust, with a Bash toolkit for generating IEEE-format papers. |
 | **[undergraduate-projects](https://github.com/JakeDerkowski96/undergraduate-projects)** | Curated archive of undergraduate CS work — AI, digital forensics, software engineering, and CS fundamentals. |
 
-### 🎓 Background
-
-M.S. in Cybersecurity, **Sam Houston State University** — digital forensics, information
-security, and cloud computing.
 
 ### 📫 Connect
 
